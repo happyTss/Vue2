@@ -1,5 +1,7 @@
 <template>
 <div>
+  <BaseDemo/>
+  <BaseDemo2/>
   <p>
     <router-link to="/user/foo">UserHome</router-link>
     <br>

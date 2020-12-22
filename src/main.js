@@ -5,6 +5,7 @@ import Directives from './directives'
 
 import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
+import './views/example'
 Vue.config.productionTip = false
 Vue.use(ElementUI);
 Vue.use(Directives);
